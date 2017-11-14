@@ -9,7 +9,9 @@
   "dependencies": {
     "json-server": "^0.12.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^4.11.0"
+  },
   "scripts": {
     "test": "jest"
   },
