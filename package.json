@@ -1,0 +1,29 @@
+{
+  "name": "lab-08-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "json-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namgungssi/lab-08-rest.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namgungssi/lab-08-rest/issues"
+  },
+  "homepage": "https://github.com/namgungssi/lab-08-rest#readme"
+}
